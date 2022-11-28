@@ -9,3 +9,5 @@ if [ "$UID" -ne "$ROOT_UID" ]; then
 fi
 
 exit 0
+
+# Reference <<Advance Bash-Scripting Guide>>
